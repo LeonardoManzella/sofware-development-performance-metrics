@@ -48,8 +48,8 @@ Magnitudes:
 ### Week
     SSD random read                     1.7 days      A normal weekend
     Read 1 MB sequentially from memory  2.9 days      A long weekend
-    Round trip within same datacenter   5.8 days      A medium vacation
-    Read 1 MB sequentially from SSD    11.6 days      Waiting for almost 2 weeks for a delivery
+    Round trip within same datacenter   5.8 days      A short vacation
+    Read 1 MB sequentially from SSD    11.6 days      A normal vacation
 
 ### Year
     Disk seek                           16.5 weeks    A semester in university
@@ -57,4 +57,4 @@ Magnitudes:
     The above 2 together                1 year
 
 ### Decade
-    Send packet CA->Netherlands->CA     4.8 years     Average time it takes to complete a bachelor's degree
+    Send packet CA->Netherlands->CA     4.8 years     Average time it takes to complete a tertiary's degree
